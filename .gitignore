@@ -1,3 +1,9 @@
+# kkyick2
+*.csv
+*.xls
+*.xlsx
+*.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
